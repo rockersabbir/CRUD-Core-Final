@@ -1,0 +1,20 @@
+﻿@model  practiceCRUD.ViewModel.CreateCourseViewModel
+
+<div class="container">
+    <form asp-action="CreateCourse" asp-controller="Home" method="post">
+        <div class="card">
+            <div class="card-header">
+                <h5>Create new course</h5>
+            </div>
+            <div class="card-body form-group row">
+                <label class="col-md-2" asp-for="CourseName"></label>
+                <div class="col-md-10">
+                    <input asp-for="CourseName" placeholder="Name" class="form-control" />
+                </div>
+            </div>
+            <div class="card-footer">
+                <button type="submit" class="btn btn-outline-success">Create</button>
+            </div>
+        </div>
+    </form>
+</div>

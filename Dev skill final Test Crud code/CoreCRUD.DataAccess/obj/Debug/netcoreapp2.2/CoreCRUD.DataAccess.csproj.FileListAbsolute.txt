@@ -1,9 +1,0 @@
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.DataAccess\bin\Debug\netcoreapp2.2\CoreCRUD.DataAccess.deps.json
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.DataAccess\bin\Debug\netcoreapp2.2\CoreCRUD.DataAccess.dll
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.DataAccess\obj\Debug\netcoreapp2.2\CoreCRUD.DataAccess.csprojAssemblyReference.cache
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.DataAccess\obj\Debug\netcoreapp2.2\CoreCRUD.DataAccess.csproj.CoreCompileInputs.cache
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.DataAccess\obj\Debug\netcoreapp2.2\CoreCRUD.DataAccess.AssemblyInfoInputs.cache
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.DataAccess\obj\Debug\netcoreapp2.2\CoreCRUD.DataAccess.AssemblyInfo.cs
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.DataAccess\bin\Debug\netcoreapp2.2\CoreCRUD.DataAccess.pdb
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.DataAccess\obj\Debug\netcoreapp2.2\CoreCRUD.DataAccess.dll
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.DataAccess\obj\Debug\netcoreapp2.2\CoreCRUD.DataAccess.pdb

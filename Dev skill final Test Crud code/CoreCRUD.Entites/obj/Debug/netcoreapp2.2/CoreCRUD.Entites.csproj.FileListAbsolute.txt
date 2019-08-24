@@ -1,9 +1,0 @@
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.Entites\bin\Debug\netcoreapp2.2\CoreCRUD.Entites.deps.json
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.Entites\bin\Debug\netcoreapp2.2\CoreCRUD.Entites.dll
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.Entites\bin\Debug\netcoreapp2.2\CoreCRUD.Entites.pdb
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.Entites\obj\Debug\netcoreapp2.2\CoreCRUD.Entites.csprojAssemblyReference.cache
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.Entites\obj\Debug\netcoreapp2.2\CoreCRUD.Entites.csproj.CoreCompileInputs.cache
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.Entites\obj\Debug\netcoreapp2.2\CoreCRUD.Entites.AssemblyInfoInputs.cache
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.Entites\obj\Debug\netcoreapp2.2\CoreCRUD.Entites.AssemblyInfo.cs
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.Entites\obj\Debug\netcoreapp2.2\CoreCRUD.Entites.dll
-D:\CSE\Repository\Dev skill final Test Crud code\CoreCRUD.Entites\obj\Debug\netcoreapp2.2\CoreCRUD.Entites.pdb
